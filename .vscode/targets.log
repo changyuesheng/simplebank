@@ -1,0 +1,358 @@
+make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 3.82.90
+# Built for i686-pc-mingw32
+# Copyright (C) 1988-2012 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+ 
+
+# Make data base, printed on Thu Jul 14 15:41:35 2022
+
+# Variables
+
+# automatic
+<D = $(patsubst %/,%,$(patsubst %\,%,$(dir $<)))
+# automatic
+?F = $(notdir $?)
+# default
+.SHELLFLAGS := -c
+# makefile
+MAKEFLAGS = Rrqp
+# automatic
+?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
+# automatic
+@D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
+# environment
+HOMEDRIVE = C:
+# automatic
+@F = $(notdir $@)
+# automatic
+^D = $(patsubst %/,%,$(patsubst %\,%,$(dir $^)))
+# makefile
+CURDIR := c:/Users/chang sheng/Desktop/test/simplebank
+# default
+SHELL := sh.exe
+# environment
+WINDIR = C:\WINDOWS
+# environment
+VSCODE_NLS_CONFIG = {"locale":"zh-cn","availableLanguages":{},"_languagePackSupport":true}
+# environment
+ONEDRIVE = C:\Users\chang sheng\OneDrive
+# environment
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+# makefile (from 'Makefile', line 1)
+MAKEFILE_LIST :=  Makefile
+# environment
+FPS_BROWSER_USER_PROFILE_STRING = Default
+# environment
+TMP = C:\Users\CHANGS~1\AppData\Local\Temp
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+PROGRAMW6432 = C:\Program Files
+# environment
+PROGRAMDATA = C:\ProgramData
+# environment
+VSCODE_CWD = D:\Microsoft VS Code
+# environment
+GOPROXY = https://goproxy.cn,direct
+# environment
+PATH = C:\Program Files\Go\bin;E:\vmware\bin\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\MinGW\bin;D:\GOWORK\bin;C:\Program Files\nodejs\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\chang sheng\scoop\shims;C:\Users\chang sheng\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\chang sheng\AppData\Local\Programs\Python\Python310\;C:\Users\chang sheng\AppData\Local\Microsoft\WindowsApps;;E:\PyCharm 2021.3.2\bin;;E:\IntelliJ IDEA 2021.3.2\bin;;D:\golang\GoLand 2021.3.3\bin;;C:\Users\chang sheng\go\bin;D:\Microsoft VS Code\bin;C:\Users\chang sheng\AppData\Roaming\npm
+# environment
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# environment
+PROCESSOR_ARCHITECTURE = x86
+# environment
+USERPROFILE = C:\Users\chang sheng
+# environment
+ALLUSERSPROFILE = C:\ProgramData
+# environment
+GOPATH = D:\GOWORK\
+# environment
+NUMBER_OF_PROCESSORS = 16
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# makefile (from 'Makefile', line 11)
+makeFileDir := c:/Users/ sheng/Desktop/test/simplebank/
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell archives jobserver
+# environment
+INTELLIJ IDEA = E:\IntelliJ IDEA 2021.3.2\bin;
+# automatic
+%F = $(notdir $%)
+# environment
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_23504_LXLSWEJJASKWVFUZ
+# environment
+COMPUTERNAME = ��ʤ��YOGA14S
+# environment
+PROGRAMFILES = C:\Program Files (x86)
+# environment
+GOLAND = D:\golang\GoLand 2021.3.3\bin;
+# environment
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+USERNAME = chang sheng
+# environment
+PUBLIC = C:\Users\Public
+# environment
+GOMODCACHE = D:\GOWORK\pkg\mod
+# environment
+VSCODE_CODE_CACHE_PATH = C:\Users\chang sheng\AppData\Roaming\Code\CachedData\b06ae3b2d2dbfe28bca3134cc6be65935cdfea6a
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+# environment
+COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
+# environment
+LOGONSERVER = \\��ʤ��YOGA14S
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# environment
+USERDOMAIN = ��ʤ��YOGA14S
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# default
+MAKECMDGOALS := all
+# default
+MAKE_VERSION := 3.82.90
+# makefile
+.DEFAULT_GOAL := postgres
+# environment
+GOROOT = C:\Program Files\Go\
+# environment
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# automatic
+%D = $(patsubst %/,%,$(patsubst %\,%,$(dir $%)))
+# environment
+LOCALAPPDATA = C:\Users\chang sheng\AppData\Local
+# environment
+PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+# default
+MAKE_COMMAND := make.exe
+# environment
+PROCESSOR_ARCHITEW6432 = AMD64
+# default
+.VARIABLES := 
+# automatic
+*F = $(notdir $*)
+# environment
+PROCESSOR_IDENTIFIER = AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD
+# environment
+OS = Windows_NT
+# environment
+VSCODE_IPC_HOOK = \\.\pipe\63082e81a372cff722c540b8e5145954-1.69.1-main-sock
+# environment
+HOMEPATH = \Users\chang sheng
+# environment
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# environment
+PROMPT = $P$G
+# environment
+MFLAGS = -Rrqp
+# automatic
+*D = $(patsubst %/,%,$(patsubst %\,%,$(dir $*)))
+# environment
+SYSTEMROOT = C:\WINDOWS
+# automatic
++D = $(patsubst %/,%,$(patsubst %\,%,$(dir $+)))
+# automatic
++F = $(notdir $+)
+# environment
+APPDATA = C:\Users\chang sheng\AppData\Roaming
+# environment
+TEMP = C:\Users\CHANGS~1\AppData\Local\Temp
+# environment
+COMSPEC = C:\WINDOWS\system32\cmd.exe
+# default
+MAKEFILES := 
+# automatic
+<F = $(notdir $<)
+# environment
+LC_ALL = C
+# automatic
+^F = $(notdir $^)
+# default
+SUFFIXES := 
+# environment
+SYSTEMDRIVE = C:
+# environment
+SESSIONNAME = Console
+# environment
+PROCESSOR_REVISION = 6001
+# environment
+PYCHARM = E:\PyCharm 2021.3.2\bin;
+# default
+.INCLUDE_DIRS = C:/MinGW/include
+# default
+.RECIPEPREFIX := 
+# environment
+LANG = C
+# environment
+PROCESSOR_LEVEL = 23
+# environment
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+# environment
+VSCODE_PID = 23504
+# environment
+USERDOMAIN_ROAMINGPROFILE = ��ʤ��YOGA14S
+# variable set hash-table stats:
+# Load=94/1024=9%, Rehash=0, Collisions=12/114=11%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# : could not be stat'd.
+# C:\ProgramData\DockerDesktop\version-bin: could not be stat'd.
+# C:\WINDOWS\System32\WindowsPowerShell\v1.0\ (key C:/WINDOWS/System32/WindowsPowerShell/v1.0/, mtime 1644987914): 32 files, no impossibilities.
+# . (key c:/Users/chang sheng/Desktop/test/simplebank, mtime 1657784494): 13 files, no impossibilities.
+# D:\Microsoft VS Code\bin (key D:/Microsoft VS Code/bin, mtime 1657682776): 4 files, no impossibilities.
+# C:\Users\chang sheng\AppData\Local\Programs\Python\Python310\Scripts\ (key C:/Users/chang sheng/AppData/Local/Programs/Python/Python310/Scripts/, mtime 1644995963): 5 files, no impossibilities.
+# C:\Program Files (x86)\Common Files\Oracle\Java\javapath (key C:/Program Files (x86)/Common Files/Oracle/Java/javapath, mtime 1652076521): 5 files, no impossibilities.
+# D:\golang\GoLand 2021.3.3\bin (key D:/golang/GoLand 2021.3.3/bin, mtime 1647263112): 29 files, no impossibilities.
+# C:\Program Files\Git\cmd (key C:/Program Files/Git/cmd, mtime 1644996394): 8 files, no impossibilities.
+# C:\WINDOWS\System32\OpenSSH\: could not be stat'd.
+# C:\MinGW\bin (key C:/MinGW/bin, mtime 1657259263): 57 files, no impossibilities.
+# E:\IntelliJ IDEA 2021.3.2\bin: could not be stat'd.
+# C:\Users\chang sheng\scoop\shims (key C:/Users/chang sheng/scoop/shims, mtime 1657251026): 7 files, no impossibilities.
+# C:\WINDOWS (key C:/WINDOWS, mtime 1657720935): 121 files, no impossibilities.
+# C:\Users\chang sheng\AppData\Local\Programs\Python\Python310\ (key C:/Users/chang sheng/AppData/Local/Programs/Python/Python310/, mtime 1644995963): 18 files, no impossibilities.
+# C:\Program Files\Docker\Docker\resources\bin (key C:/Program Files/Docker/Docker/resources/bin, mtime 1657182605): 13 files, no impossibilities.
+# C:\Program Files\Go\bin (key C:/Program Files/Go/bin, mtime 1647333541): 4 files, no impossibilities.
+# D:\GOWORK\bin (key D:/GOWORK/bin, mtime 1657768160): 16 files, no impossibilities.
+# C:\Users\chang sheng\go\bin: could not be stat'd.
+# C:\WINDOWS\System32\Wbem (key C:/WINDOWS/System32/Wbem, mtime 1652719708): 155 files, no impossibilities.
+# E:\PyCharm 2021.3.2\bin: could not be stat'd.
+# C:\Program Files\nodejs\ (key C:/Program Files/nodejs/, mtime 1652271701): 13 files, no impossibilities.
+# C:\Users\chang sheng\AppData\Roaming\npm (key C:/Users/chang sheng/AppData/Roaming/npm, mtime 1652271486): 18 files, no impossibilities.
+# C:\WINDOWS\system32 (key C:/WINDOWS/system32, mtime 1657721241): 2902 files, no impossibilities.
+# C:\Users\chang sheng\AppData\Local\Microsoft\WindowsApps (key C:/Users/chang sheng/AppData/Local/Microsoft/WindowsApps, mtime 1657783620): 26 files, no impossibilities.
+# E:\vmware\bin\ (key E:/vmware/bin/, mtime 1657160861): 4 files, no impossibilities.
+
+# 3450 files, no impossibilities in 26 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+postgres:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 2):
+	docker run --name postgres -p 5432:5432 -e POSTGRES_USER=root -e POSTGRES_PASSWORD=secret -d postgres
+
+# Not a target:
+all:
+#  Command line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has not been updated.
+
+.PHONY: postgres creatdb dropdb migrateup migratedown sqlc test
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+sqlc:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 13):
+	docker run --rm -v C:/Users/"chang sheng"/Desktop/simplebank/:/src -w /src kjconroy/sqlc:latest generate
+
+# Not a target:
+.SUFFIXES:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  Last modified 2022-07-14 15:40:04
+#  File has been updated.
+#  Successfully updated.
+
+test:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 15):
+	go test -v -cover ./...
+
+createdb:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 4):
+	docker exec -it postgres createdb --username=root --owner=root simple_bank
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+dropdb:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 6):
+	docker exec -it postgres dropdb simple_bank
+
+migrateup:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 8):
+	migrate -path db/migration -database "postgresql://root:secret@localhost:5432/simple_bank?sslmode=disable" -verbose up
+
+migratedown:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 10):
+	migrate -path db/migration -database "postgresql://root:secret@localhost:5432/simple_bank?sslmode=disable" -verbose down
+
+creatdb:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+# files hash-table stats:
+# Load=13/1024=1%, Rehash=0, Collisions=0/30=0%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 7 (6) / strings = 3422 / storage = 51909 B / avg = 15 B
+# current buf: size = 8174 B / used = 2909 B / count = 187 / avg = 15 B
+# other used: total = 43735 B / count = 3235 / avg = 13 B
+# other free: total = 44 B / max = 13 B / min = 2 B / avg = 7 B
+
+# strcache performance: lookups = 3505 / hit rate = 2%
+# hash-table stats:
+# Load=3422/8192=42%, Rehash=0, Collisions=1147/3505=33%
+# Finished Make data base on Thu Jul 14 15:41:35 2022
+
+ 
+make.exe: *** No rule to make target 'all'.  Stop.
+
