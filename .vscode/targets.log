@@ -7,7 +7,7 @@ make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --quest
 # There is NO WARRANTY, to the extent permitted by law.
  
 
-# Make data base, printed on Thu Jul 14 15:41:35 2022
+# Make data base, printed on Mon Jul 18 13:45:54 2022
 
 # Variables
 
@@ -44,8 +44,6 @@ PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
 # makefile (from 'Makefile', line 1)
 MAKEFILE_LIST :=  Makefile
 # environment
-FPS_BROWSER_USER_PROFILE_STRING = Default
-# environment
 TMP = C:\Users\CHANGS~1\AppData\Local\Temp
 # environment
 VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
@@ -58,7 +56,7 @@ VSCODE_CWD = D:\Microsoft VS Code
 # environment
 GOPROXY = https://goproxy.cn,direct
 # environment
-PATH = C:\Program Files\Go\bin;E:\vmware\bin\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\MinGW\bin;D:\GOWORK\bin;C:\Program Files\nodejs\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\chang sheng\scoop\shims;C:\Users\chang sheng\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\chang sheng\AppData\Local\Programs\Python\Python310\;C:\Users\chang sheng\AppData\Local\Microsoft\WindowsApps;;E:\PyCharm 2021.3.2\bin;;E:\IntelliJ IDEA 2021.3.2\bin;;D:\golang\GoLand 2021.3.3\bin;;C:\Users\chang sheng\go\bin;D:\Microsoft VS Code\bin;C:\Users\chang sheng\AppData\Roaming\npm
+PATH = C:\Program Files\Go\bin;E:\vmware\bin\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\MinGW\bin;D:\GOWORK\bin;C:\Program Files\nodejs\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;D:\texlive\2022\bin\win32;C:\Users\chang sheng\scoop\shims;C:\Users\chang sheng\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\chang sheng\AppData\Local\Programs\Python\Python310\;C:\Users\chang sheng\AppData\Local\Microsoft\WindowsApps;;E:\PyCharm 2021.3.2\bin;;E:\IntelliJ IDEA 2021.3.2\bin;;D:\golang\GoLand 2021.3.3\bin;;C:\Users\chang sheng\go\bin;D:\Microsoft VS Code\bin;C:\Users\chang sheng\AppData\Roaming\npm
 # environment
 COMMONPROGRAMW6432 = C:\Program Files\Common Files
 # environment
@@ -82,7 +80,7 @@ INTELLIJ IDEA = E:\IntelliJ IDEA 2021.3.2\bin;
 # automatic
 %F = $(notdir $%)
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_23504_LXLSWEJJASKWVFUZ
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_21536_NIKWLFNESMUTORIE
 # environment
 COMPUTERNAME = ��ʤ��YOGA14S
 # environment
@@ -194,13 +192,11 @@ LANG = C
 # environment
 PROCESSOR_LEVEL = 23
 # environment
-FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
-# environment
-VSCODE_PID = 23504
+VSCODE_PID = 21536
 # environment
 USERDOMAIN_ROAMINGPROFILE = ��ʤ��YOGA14S
 # variable set hash-table stats:
-# Load=94/1024=9%, Rehash=0, Collisions=12/114=11%
+# Load=92/1024=9%, Rehash=0, Collisions=12/112=11%
 
 # Pattern-specific Variable Values
 
@@ -211,11 +207,12 @@ USERDOMAIN_ROAMINGPROFILE = ��ʤ��YOGA14S
 # : could not be stat'd.
 # C:\ProgramData\DockerDesktop\version-bin: could not be stat'd.
 # C:\WINDOWS\System32\WindowsPowerShell\v1.0\ (key C:/WINDOWS/System32/WindowsPowerShell/v1.0/, mtime 1644987914): 32 files, no impossibilities.
-# . (key c:/Users/chang sheng/Desktop/test/simplebank, mtime 1657784494): 13 files, no impossibilities.
+# . (key c:/Users/chang sheng/Desktop/test/simplebank, mtime 1658120623): 15 files, no impossibilities.
 # D:\Microsoft VS Code\bin (key D:/Microsoft VS Code/bin, mtime 1657682776): 4 files, no impossibilities.
 # C:\Users\chang sheng\AppData\Local\Programs\Python\Python310\Scripts\ (key C:/Users/chang sheng/AppData/Local/Programs/Python/Python310/Scripts/, mtime 1644995963): 5 files, no impossibilities.
 # C:\Program Files (x86)\Common Files\Oracle\Java\javapath (key C:/Program Files (x86)/Common Files/Oracle/Java/javapath, mtime 1652076521): 5 files, no impossibilities.
 # D:\golang\GoLand 2021.3.3\bin (key D:/golang/GoLand 2021.3.3/bin, mtime 1647263112): 29 files, no impossibilities.
+# D:\texlive\2022\bin\win32 (key D:/texlive/2022/bin/win32, mtime 1657805190): 553 files, no impossibilities.
 # C:\Program Files\Git\cmd (key C:/Program Files/Git/cmd, mtime 1644996394): 8 files, no impossibilities.
 # C:\WINDOWS\System32\OpenSSH\: could not be stat'd.
 # C:\MinGW\bin (key C:/MinGW/bin, mtime 1657259263): 57 files, no impossibilities.
@@ -232,10 +229,10 @@ USERDOMAIN_ROAMINGPROFILE = ��ʤ��YOGA14S
 # C:\Program Files\nodejs\ (key C:/Program Files/nodejs/, mtime 1652271701): 13 files, no impossibilities.
 # C:\Users\chang sheng\AppData\Roaming\npm (key C:/Users/chang sheng/AppData/Roaming/npm, mtime 1652271486): 18 files, no impossibilities.
 # C:\WINDOWS\system32 (key C:/WINDOWS/system32, mtime 1657721241): 2902 files, no impossibilities.
-# C:\Users\chang sheng\AppData\Local\Microsoft\WindowsApps (key C:/Users/chang sheng/AppData/Local/Microsoft/WindowsApps, mtime 1657783620): 26 files, no impossibilities.
+# C:\Users\chang sheng\AppData\Local\Microsoft\WindowsApps (key C:/Users/chang sheng/AppData/Local/Microsoft/WindowsApps, mtime 1658122911): 26 files, no impossibilities.
 # E:\vmware\bin\ (key E:/vmware/bin/, mtime 1657160861): 4 files, no impossibilities.
 
-# 3450 files, no impossibilities in 26 directories.
+# 4005 files, no impossibilities in 27 directories.
 
 # Implicit Rules
 
@@ -258,7 +255,7 @@ all:
 #  File does not exist.
 #  File has not been updated.
 
-.PHONY: postgres creatdb dropdb migrateup migratedown sqlc test
+.PHONY: postgres creatdb dropdb migrateup migratedown sqlc test server
 #  Implicit rule search has not been done.
 #  Modification time never checked.
 #  File has not been updated.
@@ -280,9 +277,17 @@ sqlc:
 # Not a target:
 Makefile:
 #  Implicit rule search has been done.
-#  Last modified 2022-07-14 15:40:04
+#  Last modified 2022-07-18 13:22:49
 #  File has been updated.
 #  Successfully updated.
+
+server:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 17):
+	go run main.go
 
 test:
 #  Phony target (prerequisite of .PHONY).
@@ -336,22 +341,22 @@ creatdb:
 #  File has not been updated.
 
 # files hash-table stats:
-# Load=13/1024=1%, Rehash=0, Collisions=0/30=0%
+# Load=14/1024=1%, Rehash=0, Collisions=0/32=0%
 # VPATH Search Paths
 
 # No 'vpath' search paths.
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 7 (6) / strings = 3422 / storage = 51909 B / avg = 15 B
-# current buf: size = 8174 B / used = 2909 B / count = 187 / avg = 15 B
-# other used: total = 43735 B / count = 3235 / avg = 13 B
-# other free: total = 44 B / max = 13 B / min = 2 B / avg = 7 B
+# strcache buffers: 8 (6) / strings = 3955 / storage = 58809 B / avg = 14 B
+# current buf: size = 8174 B / used = 1666 B / count = 102 / avg = 16 B
+# other used: total = 50635 B / count = 3853 / avg = 13 B
+# other free: total = 75 B / max = 43 B / min = 1 B / avg = 10 B
 
-# strcache performance: lookups = 3505 / hit rate = 2%
+# strcache performance: lookups = 4064 / hit rate = 2%
 # hash-table stats:
-# Load=3422/8192=42%, Rehash=0, Collisions=1147/3505=33%
-# Finished Make data base on Thu Jul 14 15:41:35 2022
+# Load=3955/8192=48%, Rehash=0, Collisions=1642/4064=40%
+# Finished Make data base on Mon Jul 18 13:45:54 2022
 
  
 make.exe: *** No rule to make target 'all'.  Stop.

@@ -13,4 +13,6 @@ sqlc:
 	docker run --rm -v C:/Users/"chang sheng"/Desktop/simplebank/:/src -w /src kjconroy/sqlc:latest generate
 test:
 	go test -v -cover ./...
-.PHONY: postgres creatdb dropdb migrateup migratedown sqlc test
+server:
+	go run main.go
+.PHONY: postgres creatdb dropdb migrateup migratedown sqlc test server
